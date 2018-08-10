@@ -1,0 +1,1 @@
+import public_style from "./js/public_style.js";//不带花括号
